@@ -1,0 +1,40 @@
+name: Adam Temesvari
+analytics: {}
+github: true
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.02043487946502864
+color:
+  lightness: 0.5923403105698526
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.9288667368236929
+  brandStrength: 0.7348104461561888
+  rhythmicContrast: 0.5723115229047835
+content_rating:
+  adult: false
+typography_spectrum: 0.3920118205714971
+opengraph: {}
